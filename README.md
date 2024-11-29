@@ -18,6 +18,10 @@ __There are 3 mobile pages-__
 
    These all pages are interlinked to each other, that means that by clicking on the burger menu of any of the page, we can choose which page to navigate to.
 
+__And One Desktop page__-
+
+The desktop page was a stand alone page. So I made it on a site called ___Christmas Wonderland 🎄___.
+
 ## Specific Functions:
 
 I have used the __keyframe animations__ for the ___'Book Now'___ button on every page, for that you just have to hover over the button to make the button bounce nad shine. :D
@@ -30,6 +34,8 @@ I have made a __About page out of the context__, but I contacted _'Jarrod'_ and 
 
 ## The Picture Ha... Ha...
 ![List Importance](images/about-us-hero.jpg)
+
+## And Merry Christmas Y'all 🎄
 
 ## Credits:
 
