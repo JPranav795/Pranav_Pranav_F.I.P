@@ -1,0 +1,145 @@
+/* Reset and General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+  }
+  
+  h1, h2 {
+    text-align: center;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  }
+  
+  /* Header */
+  .header {
+    background-color: #ff6347;
+    color: white;
+    padding: 50px 10px;
+    text-align: center;
+  }
+  
+  .header h1 {
+    font-size: 3rem;
+  }
+  
+  .header p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+  
+  /* Navigation Menu */
+  .nav {
+    background-color: #2f4f4f;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .nav ul li {
+    display: inline;
+    margin: 0 20px;
+  }
+  
+  .nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+  }
+  
+  /* Main Content */
+  main {
+    padding: 40px 10px;
+  }
+  
+  /* Section Styles */
+  .section {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Gift Ideas */
+  .gift-ideas img {
+    width: 100%;
+    max-width: 250px;
+    margin: 10px;
+    border-radius: 8px;
+  }
+  
+  .gift-gallery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  /* Recipes */
+  .recipes ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .recipes li {
+    background-color: #f0f0f0;
+    margin: 8px 0;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  /* Decorations */
+  .decorations img {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 8px;
+  }
+  
+  /* Testimonials */
+  .testimonials p {
+    font-size: 1.1rem;
+    color: #555;
+    margin-top: 10px;
+  }
+  
+  /* Gallery */
+  .gallery-images {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .gallery-images img {
+    width: 100%;
+    max-width: 300px;
+    margin: 10px;
+    border-radius: 8px;
+  }
+  
+  /* Footer */
+  .footer {
+    background-color: #2f4f4f;
+    color: white;
+    padding: 20px 10px;
+    text-align: center;
+  }
+  
+  .footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 1.1rem;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
