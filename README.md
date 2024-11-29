@@ -28,8 +28,11 @@ There is also a __checkbox__ for the _"Accept Cookies"_ line. Where I have put t
 
 I have made a __About page out of the context__, but I contacted _'Jarrod'_ and he told me that we can make an about page as an extended version.
 
-## The Picture Of CR:
+## The Picture Ha... Ha...
+![List Importance](images/about-us-hero.jpg)
 
+## Credits:
 
+___Pranav_Pranav___
 
 
