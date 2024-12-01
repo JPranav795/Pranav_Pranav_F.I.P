@@ -175,6 +175,12 @@
     padding-top: 20px;
   }
   
+  .line-separator2 {
+    margin-top: 10px;
+    border-top: solid 3px #505050;
+    padding-top: 10px;
+  }
+  
   #hero-summary p {
     font-size: 14px;
     line-height: 22px;
