@@ -346,3 +346,8 @@
     content: "\1F44D";
     color: #9a2018;
  }
+
+ p {
+  margin-top: 10px;
+  margin-bottom: 16px;
+}

@@ -345,3 +345,8 @@
     line-height: 18px;
     font-size: 11px;
   }
+
+  p {
+    margin-top: 10px;
+    margin-bottom: 16px;
+}
