@@ -170,6 +170,12 @@
     border-top: solid 3px #cf6666;
     padding-top: 20px;
   }
+
+  .line-separator2 {
+    margin-top: 20px;
+    border-top: solid 3px #505050;
+    padding-top: 20px;
+  }
   
   #hero-summary p {
     font-size: 14px;
